@@ -1,0 +1,12 @@
+patient_ID,name,Med.history,doctor,age,gender,room,date_of_admit
+1,manish dubey,HIGH BP,DR.mathur,45.0,M,101,22-12-2022
+2,Rajeev Shekhavat,Diabetes,Dr. Bachpai,28.0,M,102,24-12-2022
+3,anubhav yadav,Jaundice,Dr. sinha,463.0,M,103,12-12-2022
+4,Shrisha Deavangan,Diabetes,Dr. memon,82.0,F,110,19-12-2022
+5,Abhimanyu singh,kidney infection,Dr. Sundrani,35.0,M,105,18-12-2022
+7,rohinimehra,Dengue,Dr. ahmed,52.0,F,109,11-02-2022
+8,Rishabh Bajaj,Diabetes,Dr. diwan,64.0,M,112,24-12-2022
+9,Kavita Kher,HIGH BP,Dr. Dhawan,73.0,F,106,18-10-2022
+10,Aditi Soni,COVID19,Dr. Dubey,38.0,F,A55,28-12-2022
+541,astha,covid,dr.mathur,28.0,f,54236,12-12-2012
+589,rashmi,fever,dr.sundrani,69.0,f,7895,12-12-2012

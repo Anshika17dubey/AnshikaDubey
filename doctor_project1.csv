@@ -1,0 +1,11 @@
+Doctor_ID,Name,Join,Salary(in lakh),Department
+5420,Dr.Mathur,12-12-2012,1.56,Cardiologist
+5422,Dr.Sundrani,18-12-2012,1.86,Kidney
+5423,Dr.Dubey,09-05-2012,2.25,covid
+5424,Dr.Bajpai,05-08-2012,1.19,Diabetics
+5425,Dr.Memon,18-08-2016,0.95,Orthopediac
+5426,Dr.chaubey,19-02-2021,0.75,covid
+5427,Dr.ahmed,25-05-2021,0.79,Dengue
+5428,Dr.Diwan,18-07-2013,1.15,Surgeon
+5429,Dr.Dhawan,19-05-2015,1.21,Surgeon
+654,dr.anshika,brain,,
